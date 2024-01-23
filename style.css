@@ -1,0 +1,12 @@
+.container {
+  margin-bottom: 100px;
+}
+
+.carousel-background {
+  background-color: #fceae8;
+  border-radius: 10px;
+}
+
+.carousel-item {
+  padding: 20px 40px;
+}
